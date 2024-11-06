@@ -77,6 +77,12 @@ li {
 	text-shadow: 2px 2px 1px #3b6a5e;
 	border-top: 1px solid #7ee0c9;
 	border-bottom: 1px solid #3b6a5e;}
+.custom {
+	background-color: rgb(85, 20, 20);
+	color: rgb(11, 2, 2);
+	text-shadow: 1px solid black;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;}
 
 .complete {
   background-color: #999;

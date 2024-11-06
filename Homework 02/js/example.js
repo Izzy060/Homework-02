@@ -13,7 +13,7 @@ var newHeading =  headingText + '<span>' + totalItems + '</span>'; // Content
 // Part1. Hint: Use the listItems object to iterate through the elements of the list
 for(var i = 0; i < totalItems; i++) {
     if(listItems[i].innerHTML == "fresh figs" || listItems[i].innerHTML == "honey" || listItems[i].innerHTML == "kale") {
-        listItems[i].className = "cool";
+        listItems[i].className = "custom";
     }
 }
 
